@@ -1,5 +1,5 @@
-create database today09_04_2020;
-use today09_04_2020;
+create database ayan;
+use ayan;
 
 create table register(
 	name varchar(50),
